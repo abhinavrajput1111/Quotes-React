@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sticky_navbar {
+  background: linear-gradient(to right, #ee0979, #ff6a00);
+  color: white;
+}
+
+.footer_wrapper {
+  background: linear-gradient(to right, #ee0979, #ff6a00);
+  color: white;
+}
